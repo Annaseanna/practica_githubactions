@@ -35,3 +35,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 Thank u for the workshop c:
+some new changes
